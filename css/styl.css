@@ -1,0 +1,10 @@
+.container{
+    margin-top: 100px;
+}
+.card-weather{
+    border: 1px solid #6464642c;
+    border-radius: 4px;
+}
+.row{
+    margin: 40px;
+}
